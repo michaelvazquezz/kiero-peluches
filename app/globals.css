@@ -4,8 +4,10 @@
 @tailwind utilities;
 
 :root {
-  --font-comic: 'Comic Neue', cursive;
-  --font-nunito: 'Nunito', sans-serif;
+  --font-comic: Arial, Helvetica, sans-serif;
+  /* Era: 'Comic Neue', cursive */
+  --font-nunito: Arial, Helvetica, sans-serif;
+  /* Era: 'Nunito', sans-serif */
 
   --color-primary: #f9c8d9;
   --color-secondary: #fce4ec;

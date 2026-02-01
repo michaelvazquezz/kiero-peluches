@@ -18,8 +18,10 @@ module.exports = {
       },
       fontFamily: {
         // Tus fuentes personalizadas
-        comic: ['Comic Neue', 'cursive'],
-        nunito: ['Nunito', 'sans-serif'],
+        //comic: ['Comic Neue', 'cursive'],
+        //nunito: ['Nunito', 'sans-serif'],
+        sans: ['Arial', 'Helvetica', 'sans-serif'],
+        comic: ['Arial', 'sans-serif'],
       },
       boxShadow: {
         // Sombras personalizadas
