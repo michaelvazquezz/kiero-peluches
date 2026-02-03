@@ -254,9 +254,9 @@ export default function WelcomeModal({ onClose }: WelcomeModalProps) {
                     </button>
 
                     {/* Texto pequeño */}
-                    <p className="mt-4 sm:mt-6 text-xs sm:text-sm text-text/70 animate-fade-in delay-500">
+                    {/*  <p className="mt-4 sm:mt-6 text-xs sm:text-sm text-text/70 animate-fade-in delay-500">
                         💕 Hecho con mucho amor para ti
-                    </p>
+                    </p> */}
                 </div>
             </div>
         </div>
